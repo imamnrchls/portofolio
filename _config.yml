@@ -9,7 +9,7 @@ twitter: "https://twitter.com/"
 github: "https://github.com/"
 
 # Site config
-baseurl: "/poertofolio"
+baseurl: "/portofolio"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
